@@ -1,0 +1,4 @@
+﻿  test-24.cpp
+E:\练习\2023-8-24\test-24.cpp(329,13): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\练习\2023-8-24\test-24.cpp(335,13): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  2023-8-24.vcxproj -> E:\练习\2023-8-24\x64\Debug\2023-8-24.exe
