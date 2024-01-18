@@ -1,0 +1,6 @@
+﻿  p_1.cpp
+E:\练习\practice_c++\p_1.cpp(726,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\练习\practice_c++\p_1.cpp(742,11): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\练习\practice_c++\p_1.cpp(742,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+E:\练习\practice_c++\p_1.cpp(742,11): message : 缺失的可变参数 2 为格式字符串“%d”所需
+  practice_c++.vcxproj -> E:\练习\practice_c++\x64\Debug\practice_c++.exe
